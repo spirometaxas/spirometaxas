@@ -2,7 +2,7 @@
 
 ### I am a software developer who likes building cool things!
 
-[UPenn](https://www.upenn.edu/) alum.   Founder of [The Spyraverse](https://spyraverse.com/).
+#### [UPenn](https://www.upenn.edu/) alum.   Founder of [The Spyraverse](https://spyraverse.com/).
 
 [![Website](https://img.shields.io/badge/website-000000.svg?&style=for-the-badge&logo=About.me&logoColor=white&color=346beb)](https://spirometaxas.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=346beb)](https://www.linkedin.com/in/spiro-metaxas/)
