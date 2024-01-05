@@ -10,3 +10,5 @@
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&color=346beb)](https://apps.apple.com/us/developer/spiro-metaxas/id1584716227)
 [![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white&color=346beb)](https://www.npmjs.com/~spirometaxas)
 [![PYPI](https://img.shields.io/badge/PYPI-000000?style=for-the-badge&logo=pypi&logoColor=white&color=346beb)](https://pypi.org/user/spirometaxas/)
+
+npx card: [`$ npx spirometaxas`](https://github.com/spirometaxas/businesscard)
