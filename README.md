@@ -11,4 +11,4 @@
 [![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white&color=346beb)](https://www.npmjs.com/~spirometaxas)
 [![PYPI](https://img.shields.io/badge/PYPI-000000?style=for-the-badge&logo=pypi&logoColor=white&color=346beb)](https://pypi.org/user/spirometaxas/)
 
-npx card: [`$ npx spirometaxas`](https://github.com/spirometaxas/businesscard)
+npx card: [`> npx spirometaxas`](https://github.com/spirometaxas/businesscard)
